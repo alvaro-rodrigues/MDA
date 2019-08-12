@@ -1,0 +1,5 @@
+question,answer,subject
+Different communities have different visions of data mining. Can you give the epistemological perspective on data mining; the one from the database community; the machine learning community; the inductive database vision; the way businesses consider data mining?,To be answered,perspective
+Give an abstract vision of the knowledge discovery process and qualify it.,To be answered,knowledge discovery
+When mining data; the analyst should always be careful of the many problems encountered in real datasets. Can you give some of them? What statistical assumptions are usually made on the objects in the dataset? Which one sampling bias violates? What is Berkson's paradox? Give an example.,To be answered,problems|perspective
+"Many datasets describe objects with attributes. Categorize those attributes w.r.t. their ""types"" and explain what kind of processes (derivation of other attributes; statistics; and data mining algorithms) requires what ""type"" of attribute(s).",To be answered,attributes
